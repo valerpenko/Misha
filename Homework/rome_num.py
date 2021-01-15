@@ -17,7 +17,6 @@ def rome_2_dec(r):
         else:
             dec += a[i] - a[i + 1]
             i += 2
-
     return dec
 
 
